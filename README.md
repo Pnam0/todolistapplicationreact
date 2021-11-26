@@ -13,5 +13,5 @@
 #### The Deployed version of this app is available through Vercel: https://todolistreactapplication-d33h9rzr2-pnam0.vercel.app
 
 ## Additional Information
-##### Created By: Paul Nam | For Educational Purposes Only &copy; 2021
+##### NAIT DMIT 2008 - A01 | For Educational Purposes Only &copy; 2021
 ##### This application uses firebase and react. It is currently deployed through Vercel.
