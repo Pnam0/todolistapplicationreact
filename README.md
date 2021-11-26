@@ -8,7 +8,6 @@
 ## How to Use the App
 - #### As of Novemeber 26th, 2021 the application has limited functionality. Limited to Logging in and out of the To Do Page. 
 
-
 ## Want to see the Deployed Version?
 #### The Deployed version of this app is available through Vercel: https://todolistreactapplication-d33h9rzr2-pnam0.vercel.app
 
