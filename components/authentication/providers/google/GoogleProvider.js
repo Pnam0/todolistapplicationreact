@@ -10,6 +10,7 @@ function GoogleProvider({ children,  ...props }) {
       <div>
         <Image
           src={google}
+          alt="Google Provider Logo"
           layout="fixed"
           width={24}
           height={24}
