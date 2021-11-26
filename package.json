@@ -11,9 +11,15 @@
     "firebase": "^9.5.0",
     "next": "12.0.4",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "react-firebase-hooks": "^4.0.1",
+    "react-icons": "^4.3.1",
+    "styled-components": "^5.3.3",
+    "swr": "^1.0.1"
   },
   "devDependencies": {
+    "@svgr/cli": "^5.5.0",
+    "babel-plugin-styled-components": "^2.0.1",
     "eslint": "7.32.0",
     "eslint-config-next": "12.0.4"
   }
