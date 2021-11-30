@@ -1,0 +1,3 @@
+function useProvider (provider, process) {
+    
+}
