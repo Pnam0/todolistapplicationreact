@@ -1,6 +1,7 @@
 import { useAuth } from 'libs/hooks/useAuth';
 import { AppBar } from "../components/appbar";
-import {Title} from "../ui/title"
+import {Title} from "../ui/title";
+import Link from "next/link"
 
 
 function ToDoPage(props) {
@@ -17,6 +18,7 @@ function ToDoPage(props) {
     <>
     <AppBar/>
     <Title>Render The Users To Do List</Title>
+    <Link href="/add-item"><a>Click to Add Item</a></Link>
     </>
   )
   
